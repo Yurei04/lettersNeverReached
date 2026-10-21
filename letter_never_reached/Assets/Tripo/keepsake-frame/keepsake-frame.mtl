@@ -1,0 +1,3 @@
+newmtl keepsake-frame
+Kd 1 1 1
+map_Kd keepsake-frame_baseColor.jpg

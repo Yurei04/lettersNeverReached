@@ -1,0 +1,4 @@
+keepsake-frame: a 3D model made by Tripo AI from a text description, converted to OBJ.
+Description: Small freestanding vintage rectangular walnut photograph frame with brass corners containing a simple sepia picture of two tiny faceless medics, cozy low poly muted wartime style, no text.
+Model: P1-20260311
+Made: 2026-10-20

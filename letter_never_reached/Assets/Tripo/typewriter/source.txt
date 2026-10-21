@@ -1,0 +1,4 @@
+typewriter: a 3D model made by Tripo AI from a text description, converted to OBJ.
+Description: Vintage manual typewriter, dark desaturated olive enamel body, round cream keys, brass details, black roller and a single blank cream paper sheet. Low poly cozy wartime illustration, no text.
+Model: P1-20260311
+Made: 2026-10-20

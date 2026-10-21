@@ -1,0 +1,4 @@
+desk-lamp: a 3D model made by Tripo AI from a text description, converted to OBJ.
+Description: Vintage banker desk lamp with broad dark olive green metal shade, curved brass stem and heavy round base, warm golden underside. Low poly cozy muted wartime illustration.
+Model: P1-20260311
+Made: 2026-10-20

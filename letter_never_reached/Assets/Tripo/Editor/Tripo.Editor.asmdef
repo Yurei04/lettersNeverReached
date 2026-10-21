@@ -1,0 +1,6 @@
+{
+    "name": "Tripo.Editor",
+    "includePlatforms": [
+        "Editor"
+    ]
+}

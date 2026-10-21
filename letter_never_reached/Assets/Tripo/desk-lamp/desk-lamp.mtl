@@ -1,0 +1,3 @@
+newmtl desk-lamp
+Kd 1 1 1
+map_Kd desk-lamp_baseColor.jpg

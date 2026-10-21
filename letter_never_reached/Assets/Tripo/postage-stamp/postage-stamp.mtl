@@ -1,0 +1,3 @@
+newmtl postage-stamp
+Kd 1 1 1
+map_Kd postage-stamp_baseColor.jpg

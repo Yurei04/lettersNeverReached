@@ -1,0 +1,4 @@
+postage-stamp: a 3D model made by Tripo AI from a text description, converted to OBJ.
+Description: Old rubber postage hand stamp with rounded dark walnut wooden handle and rectangular brass stamp base, low poly muted warm brown wartime desk object, no text.
+Model: P1-20260311
+Made: 2026-10-20
